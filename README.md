@@ -33,7 +33,7 @@ I am confident in my ability to deliver impactful solutions and excited to contr
 
 - 📫 How to reach me **gauravichakraborty30588@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-oUj-UafVrF00WMqIq-1ei9wuQcPgQzT/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume]
 
 - ⚡ Fun fact **I’ve solved over 1200 DSA problems and enjoy algorithm challenges!**
   
